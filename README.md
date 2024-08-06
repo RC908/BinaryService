@@ -9,7 +9,9 @@
 `
 BinaryService:numberToBinary(number, AVal, BVal)
  `
+ 
 **Description:** Returns a binary version of the number provided.
+
 **Parameters:**
 
 | Parameter  | Type |  Value |
@@ -26,7 +28,9 @@ BinaryService:numberToBinary(number, AVal, BVal)
 `
 BinaryService:binaryToNumber(Binary, AVal, BVal)
  `
+ 
 **Description:** Returns a number version of the binary provided.
+
 **Parameters:**
 
 | Parameter  | Type |  Value |

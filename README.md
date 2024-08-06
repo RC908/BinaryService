@@ -37,5 +37,5 @@ BinaryService:binaryToNumber(Binary, AVal, BVal)
 
 </details>
 
-### V0.1 ALPHA
+### V0.1.0-alpha
 Created BinaryService, Number to Binary and Binary To Number is supported currently.
